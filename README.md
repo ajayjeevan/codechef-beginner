@@ -1,5 +1,5 @@
 # codechef-beginner
-## codes of codechef beginner programs.
+## Codes of codechef beginner programming questions.
 
 ### This repo contains some codes of codechef programming questions.
 ### The difficulty level of programs is Beginner.
